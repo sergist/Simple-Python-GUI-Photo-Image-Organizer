@@ -1,0 +1,1 @@
+Simple python GUI app for organizing photo pictures in structured folders
